@@ -3,7 +3,7 @@ import style from "./categoryList.module.css"
 
 const CategoryList = () => {
   return (
-    <div className={StyleSheet.container}>
+    <div className={style.container}>
         CategoryList
     </div>
   )
